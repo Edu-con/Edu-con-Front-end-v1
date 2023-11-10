@@ -1,0 +1,5 @@
+rgb(198,224,255) light blue
+button color :rgb(49,86,89)
+navi bg color : rgb(253,255,252)
+black fronts :rgb(0,16,17)
+btn hover color:rgb(37,161,142)
